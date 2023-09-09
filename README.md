@@ -3,7 +3,10 @@ This project focuses on sentiment analysis using the DistilBERT model for classi
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Data](#data)
+- [Dataset](#dataset)
+- [DistilBERT Overview](#distilbert-overview)
+- [How DistilBERT Works](#how-distilbert-works)
+- [Benefits of DistilBERT](#benefits-of-distilbert)
 
 ## Introduction
 Sentiment analysis is a natural language processing (NLP) task that involves determining the sentiment or emotion expressed in a piece of text. In this project, we use the DistilBERT model to classify Twitter-based posts into two categories: "Not Suicide" and "Potential Suicide." This classification can provide insights into identifying posts that may indicate individuals at risk of self-harm or suicide
