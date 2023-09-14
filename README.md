@@ -5,7 +5,7 @@ This project focuses on sentiment analysis using the DistilBERT model for classi
 - [Introduction](#project-overview)
 - [Dataset](#dataset)
 
-## DistilBERT Explanation
+### DistilBERT Explanation
 - [DistilBERT Overview](#distilbert-overview)
 - [How DistilBERT Works](#how-distilbert-works)
 - [Benefits of DistilBERT](#benefits-of-distilbert)
