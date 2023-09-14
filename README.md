@@ -4,7 +4,6 @@ This project focuses on sentiment analysis using the DistilBERT model for classi
 ## Table of Contents
 - [Introduction](#project-overview)
 - [Dataset](#dataset)
-
 ### DistilBERT Explanation
 - [DistilBERT Overview](#distilbert-overview)
 - [How DistilBERT Works](#how-distilbert-works)
